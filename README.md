@@ -80,7 +80,7 @@ define('TOKEN', 'XXXXX'); // Add the Bot API Token<br/>
 6) Install the webhook at https://api.telegram.org/ for the `tgbot.php` script:
 [https://api.telegram.org/botXXXXX/setWebhook?url=https://yourdomain/BotFolder/tgbot.php](https://api.telegram.org/botXXXXX/setWebhook?url=https://yourdomain/BotFolder/tgbot.php)
 
-7) Place the script [https://yourdomain/BotFolder/tonratechecker.php](https://yourdomain/BotFolder/delayed_posts.php) on cron with execution once a hour. It will send reminder to subscribers once a week.
+7) Place the script [https://yourdomain/BotFolder/delayed_posts.php](https://yourdomain/BotFolder/delayed_posts.php) on cron with execution once a hour. It will send reminder to subscribers once a week.
 
 
 ## Usage
